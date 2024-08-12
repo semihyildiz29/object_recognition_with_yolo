@@ -23,14 +23,14 @@ git clone https://github.com/semihyildiz29/object_recognition_with_yolo.git
 2. Gerekli Python paketlerini yükleyin:
 pip install -r requirements.txt
 
-3.'yolov3.cfg' ve 'yolov3.weights' dosyalarını pretrained_model klasörüne yerleştirin.
+ 3.'yolov3.cfg' ve 'yolov3.weights' dosyalarını pretrained_model klasörüne yerleştirin.
 
-Kullanım
+ Kullanım
 
-Image Object Detection:
-python image_object_detection.py
+ Image Object Detection:
+ python image_object_detection.py
 
-Real-time Object Detection:
-python realtime_object_detection.py
+ Real-time Object Detection:
+ python realtime_object_detection.py
 
 
